@@ -1,7 +1,7 @@
 #This is a version of the program which some of you completed for prep.
 #There are a number of errors in the code. Answer the questions on the relevant google form and fix the code as you go.
 
-password = "cabbage"
+password = "cabbage
 
 attempt = input("Please enter your password: "
 
